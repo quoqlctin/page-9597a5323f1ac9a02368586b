@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0e1808b21abfdb3fad091d44",
+  "owner": "quoqlctin",
+  "repo": "page-9597a5323f1ac9a02368586b",
+  "title": "ETON",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9597a5323f1ac9a02368586b",
+      "a": "ETON",
+      "b": "机场官网线路发布页",
+      "entity": "ETON",
+      "brand": "ETON",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "415c17f03f2d830dfd0c3562f966634ccac71426ae6b3e5a89b28181e61d9566",
+      "content": {
+        "primary_entity": "ETON",
+        "keyword1": "ETON",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，ETON 提供基础版、旗舰版与团队版三档海外加速方案。基础版每月 100GB 流量、支持 3 台设备，适合手机与电脑轻量使用；旗舰版每月 300GB、支持 5 台设备，配有 IPLC 专线与流媒体解锁；团队版每月 1000GB、支持 20 台设备，适合小团队多终端协作。年付价格更省，按需选档即可。",
+          "AI_HERO_SUBTITLE": "ETON 多档加速方案，按设备数选",
+          "AI_HERO_INTRO": "ETON 面向跨境访问场景提供多个海外加速订阅档位，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，并区分普通线路与 IPLC 专线。选择时先看常用设备数量和月流量，再决定订阅周期。",
+          "AI_VISUAL_TITLE": "ETON 加速方案一览",
+          "AI_HIGHLIGHT_1": "基础版月付 15 元起",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_FEATURES_TITLE": "按设备与流量选套餐",
+          "AI_FEATURES_INTRO": "先从设备数与流量需求出发，再对比线路差异。",
+          "AI_FEATURE_TITLE_1": "设备数量先估算",
+          "AI_FEATURE_TEXT_1": "手机、电脑、平板常用几台就选几台：基础版 3 台、旗舰版 5 台、团队版 20 台。",
+          "AI_FEATURE_TITLE_2": "流量档位看用量",
+          "AI_FEATURE_TEXT_2": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按日常浏览或视频用量挑选。",
+          "AI_FEATURE_TITLE_3": "线路差异影响体验",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线，适合对延迟敏感的场景；普通线路可满足浏览与流媒体。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLIENTS_INTRO": "不同系统选择对应客户端，再导入订阅信息使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 15 元/月或 150 元/年，旗舰版 35 元/月或 350 元/年，团队版 85 元/月或 850 元/年，可按人数与流量挑选。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "先选服务，再看适配要求，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量，在基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_2": "确认常用系统版本与网络环境符合所选客户端的基本要求。",
+          "AI_STEP_TITLE_3": "配置订阅信息",
+          "AI_STEP_TEXT_3": "打开客户端，按对应文档导入订阅链接并更新节点列表即可使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "ETON 套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "可以按计费周期调整，升级或降级通常在下个周期生效。已有剩余时长会按规则折算，建议先确认当前周期结束时间再操作。",
+          "AI_FAQ_QUESTION_2": "多台设备能同时使用同一个订阅吗？",
+          "AI_FAQ_ANSWER_2": "可以，但同时在线数量受套餐限制。基础版 3 台、旗舰版 5 台、团队版 20 台，超出后新设备可能无法连接。",
+          "AI_FAQ_QUESTION_3": "年付比月付划算多少？",
+          "AI_FAQ_ANSWER_3": "以基础版为例，月付 15 元、年付 150 元，相当于两个月价格使用一年。旗舰版与团队版同样提供按年付的优惠价格。",
+          "AI_FAQ_QUESTION_4": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_4": "当月高速流量用尽后，相关节点可能暂停或降速。可等待下月周期重置，或提前更换更高流量档位。",
+          "AI_FAQ_QUESTION_5": "客户端导入订阅失败怎么办？",
+          "AI_FAQ_ANSWER_5": "先检查订阅链接是否完整复制，再确认客户端版本与文档一致。切换网络后重试，若仍失败可提交工单获取支持。",
+          "AI_CLOSING_TITLE": "选对档位，配置更顺",
+          "AI_CLOSING_TEXT": "先明确设备数与月流量，再打开客户端文档导入订阅，稳定使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rencaiying.cn",
+    "host": "rencaiying.cn"
+  },
+  "file_hashes": {
+    "index.html": "23416758a56ea82895f7a9a82c5effa7815ce75de57e3cc407f852bbb56d6a90",
+    "sitemap.xml": "3d67d1129ee1bc34fcab9709b14e9a171f9fe2ae9694ac907b560347336e1692",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9803e9f7dbea4200400a9d50d96283996de2cc07eff5cf8268f03a6e6b06e7a5",
+    "robots.txt": "f31627c25d10840a80a97942f489a4fb541178e750a1d92f15c15a8b80fcf306",
+    "4980d87ead63aec5ad06264c10fbe1a6.txt": "ffe04faf81dd7f742522fdf86e70392c73d66c4907b5bcfb0a90124787b3132f"
+  },
+  "revision": "10975d4007ceb8c09edbec43eeef2b5190bc088afc3ba85751d1d3e0e10f7f5a"
+}
